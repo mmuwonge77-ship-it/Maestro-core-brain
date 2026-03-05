@@ -10,7 +10,7 @@ function looksLikeRefusal(text) {
 }
 
 async function callEdgeChat(baseUrl, input) {
-  const url = `${baseUrl}/functions/v1/chat`;
+  const url = `${baseUrl}/functions/v1/maestro`;
 
   const res = await fetch(url, {
     method: "POST",
