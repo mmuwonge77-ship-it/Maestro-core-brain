@@ -1,4 +1,4 @@
-name: Maestro CI.ml
+name: Maestro CI.yml
 
 on:
   push:
