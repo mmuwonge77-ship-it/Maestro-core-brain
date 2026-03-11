@@ -1,4 +1,4 @@
-name: Maestro CI
+name: Maestro CI.ml
 
 on:
   push:
