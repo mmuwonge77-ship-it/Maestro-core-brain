@@ -78,5 +78,4 @@ async function main() {
   console.log(`\nEvals passed ${passed}/${lines.length}`);
 
 }
-
 main();
