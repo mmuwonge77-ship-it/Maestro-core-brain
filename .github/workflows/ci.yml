@@ -26,4 +26,4 @@ jobs:
         env:
           EVAL_API_URL: ${{ secrets.EVAL_API_URL }}
         run: |
-          node evals/scripts/run_evals.js
+          node evals/run_evals.js
